@@ -167,8 +167,8 @@ def write_pdf(outfile, ta_data, TEMPLATE="DDAH.pdf"):
 if __name__ == "__main__":
     import sys
 
-    data_file = "sample_data.txt" # sys.argv[1]
-    pdf_out_file = "out.pdf" # sys.argv[2]
+    data_file = sys.argv[1]
+    pdf_out_file = sys.argv[2]
 
     ta_data = parse_data(data_file)
     write_pdf(pdf_out_file, ta_data)
