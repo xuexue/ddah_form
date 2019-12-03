@@ -1,0 +1,25 @@
+==============
+TA INFO:
+Full Name: Fib Fob
+Total contract hours: 135
+
+CONTACT HOURS:
+Lab/tutorial hours: 30
+In-lecture support hours: 0
+Office hours: 2
+
+MARKING HOURS:
+Test/quiz marking hours: 0
+Exam marking hours: 15
+Midterm marking hours: 7
+Assignment marking hours: 54
+
+PREP HOURS:
+Lab/tutorial prep hours: 20
+Office hours prep hours: 1
+Meetings with instructors: 3
+
+INVIGILATION HOURS:
+Midterm invigilation: 1
+Exam invigilation: 2
+============== 
